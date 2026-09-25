@@ -1,0 +1,7 @@
+SpaceShrink
+
+Copyright (c) 2026 Tejinder Pal Singh.
+
+SpaceShrink application-specific code and original materials are proprietary.
+Third-party components remain subject to their respective licenses and terms.
+See THIRD_PARTY_NOTICES.md for the direct dependencies identified for this release.

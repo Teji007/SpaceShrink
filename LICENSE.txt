@@ -1,0 +1,43 @@
+SPACE SHRINK SOFTWARE LICENSE
+
+Copyright (c) 2026 Tejinder Pal Singh. All rights reserved.
+
+1. Scope
+
+This license applies to original SpaceShrink source code, original application-specific artwork, original documentation, and other original materials distributed by Tejinder Pal Singh with the SpaceShrink project, except where a file or third-party notice states different terms.
+
+2. Permission
+
+The copyright owner grants you a limited, non-exclusive, non-transferable permission to download, install and use the compiled SpaceShrink application for personal or internal use.
+
+3. Restrictions
+
+Unless you receive separate written permission from Tejinder Pal Singh, you may not:
+
+- copy, publish, sell, sublicense or redistribute the SpaceShrink source code;
+- create or distribute modified or derivative versions of the SpaceShrink application or source code;
+- remove copyright, attribution, trademark or other ownership notices;
+- package the SpaceShrink application into another product for distribution;
+- represent that a modified or redistributed version is an official SpaceShrink release.
+
+4. Source repository
+
+Making a repository publicly viewable does not grant the public a copyright license to reuse the original SpaceShrink code. Third-party dependencies remain governed by their own licenses and terms.
+
+5. Trademarks
+
+"SpaceShrink" and associated original branding are not granted for use as a trademark or product name except with written permission from the copyright owner.
+
+6. Warranty disclaimer
+
+SPACE SHRINK IS PROVIDED "AS IS" TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. THE COPYRIGHT OWNER DISCLAIMS WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT TO THE EXTENT PERMITTED BY LAW.
+
+7. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT OWNER IS NOT LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES ARISING FROM USE OF THE SOFTWARE.
+
+8. Third-party components
+
+This license does not replace, limit or modify the licenses applicable to third-party software included with or used by SpaceShrink. See THIRD_PARTY_NOTICES.md.
+
+This license is provided as a project starting point and is not legal advice. Consider obtaining legal advice before commercial distribution or publication of source code.
